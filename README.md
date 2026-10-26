@@ -47,7 +47,7 @@ All customisation is in the database, not theme files, so Kadence updates are sa
    "Book a class" (Calendly) and "See the schedule" (`#schedule`).
 2. **HTML block** right after the cover: a script that swaps the hero image for one
    of 7 photos at random on each load. Do not delete it.
-3. Ways to practice: Yin / Restorative / Hatha & Meditation cards.
+3. Ways to practice: Yin / Restorative / Hatha cards.
 4. Where to find me: Medford (The Corner Studio) / Malden (Ascension Self Defense) /
    Online (yogawithpeter.com, yogawithhollandandpeter.com).
 5. Testimonial.
